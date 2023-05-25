@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(10, 10, 10);
+    background-color: rgb(113, 201, 223);
     color: aliceblue;
 }
 h2{
@@ -26,5 +26,14 @@ padding: 30px;
     background-color: rgb(234, 240, 240);
     color: black;
     font-size: 20px;
+    border-radius: 10px;
+}
 
+.informacao{
+    width: 20%;
+}
+.texto-informacao{
+    color: antiquewhite;
+    font-size: 30px;
+    font-family: caveat;
 }
